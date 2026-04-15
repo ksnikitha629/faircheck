@@ -1,7 +1,7 @@
 # FairCheck: Bias Detection Tool
 
 ## Overview
-FairCheck is a tool designed to evaluate whether a predictive model exhibits bias across different groups.
+FairCheck is a tool designed to evaluate whether a predictive model exhibits bias across different groups. AI was used to debug code for this assignment. 
 
 ## Features
 - Computes fairness metrics:
@@ -41,4 +41,4 @@ This tool can be applied to real-world scenarios such as:
 - Context is critical when interpreting results
 
 ## Author
-Your Name
+Snikitha Kassey
